@@ -5,7 +5,6 @@ accountCity = "Mailsi"
 
 
 
-
 accountEmail = "hammadmuneer974@gmail.com"
 accountPassword = "newPassword456"
 accountCity = "Lahore"
